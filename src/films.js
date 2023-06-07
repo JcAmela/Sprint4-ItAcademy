@@ -8,12 +8,20 @@ function getAllDirectors(array) {
   
   // Ejercicio 2: Obtén las películas de un director específico.
   function getMoviesFromDirector(array, director) {
-  
+  let result = array.filter(e => e.director === director);
+  console.log("EJERCICIO 2 ->", result);
+  return result;
   }
   
   // Ejercicio 3: Calcula el promedio de las películas de un director dado.
   function moviesAverageOfDirector(array, director) {
-  
+    let directoresEscogidos = array.filter(e => e.director === director)
+    let reducido = directoresEscogidos.reduce((total, valor) => {
+      return total + valor;
+    }, 0);
+    let result = reducido / array.lenght
+    console.log("EJERCICIO 3 ->", result);
+    return result;
   }
   
   // Ejercicio 4: Ordena alfabéticamente por título.
