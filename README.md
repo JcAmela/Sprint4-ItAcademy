@@ -17,12 +17,12 @@ Ejercicio 5: Ordenación de las películas por año, en orden ascendente.
 Ejercicio 6: Cálculo del promedio de las puntuaciones de las películas en una categoría.
 
 📗 Nivel 2
-El Nivel 2 incluye un ejercicio adicional para manipular la duración de las películas:
+Incluye un ejercicio adicional para manipular la duración de las películas:
 
 Ejercicio 7: Conversión de la duración de las películas a minutos.
 
 📕 Nivel 3
-El Nivel 3 tiene un ejercicio para buscar la mejor película de un año:
+Tiene un ejercicio para buscar la mejor película de un año:
 
 Ejercicio 8: Obtención de la mejor película de un año específico.
 
