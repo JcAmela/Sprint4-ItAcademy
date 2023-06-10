@@ -6,7 +6,7 @@ En este sprint, se nos asignó la tarea de trabajar con arrays y objetos para ma
 
 🎯 Niveles y Ejercicios
 📘 Nivel 1
-El Nivel 1 consta de 6 ejercicios centrados en la implementación de funcionalidades para manipular los datos de las películas:
+Consta de 6 ejercicios centrados en la implementación de funcionalidades para manipular los datos de las películas:
 
 Ejercicio 1: Obtención de un array con todos los directores de las películas.
 Ejercicio 2: Filtrado de películas según el director.
