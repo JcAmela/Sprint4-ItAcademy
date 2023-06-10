@@ -5,6 +5,7 @@
 En este sprint, se nos asignó la tarea de trabajar con arrays y objetos para manejar y manipular datos de películas en JavaScript.
 
 🎯 Niveles y Ejercicios
+
 📘 Nivel 1
 Consta de 6 ejercicios centrados en la implementación de funcionalidades para manipular los datos de las películas:
 
