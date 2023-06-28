@@ -1,33 +1,33 @@
-# 🚀 IT Academy Barcelona Activa - Sprint 4 🚀
+# 🚀 IT Academy Barcelona Activa - Sprint 4: Manipulación de Datos de Películas con JavaScript 🚀
 
-¡Hola! Soy Juan Carlos Amela. Este repositorio contiene los ejercicios del cuarto sprint del curso de programación de IT Academy Barcelona Activa.
+¡Hola! Soy Juan Carlos Amela, estudiante de programación en IT Academy Barcelona Activa. Este repositorio aloja el trabajo realizado durante el Sprint 4 de mi formación, donde trabajé con arrays y objetos para manipular y analizar datos de películas en JavaScript.
 
-En este sprint, se nos asignó la tarea de trabajar con arrays y objetos para manejar y manipular datos de películas en JavaScript.
+Echa un vistazo al proyecto final [aquí](https://jcamela.github.io/Sprint4-ItAcademy.github.io/).
 
-🎯 Niveles y Ejercicios
+## 🎯 Niveles y Ejercicios
 
-📘 Nivel 1
-Consta de 6 ejercicios centrados en la implementación de funcionalidades para manipular los datos de las películas:
+### 📘 Nivel 1
+Este nivel consta de 6 ejercicios centrados en la implementación de funcionalidades básicas para manejar los datos de las películas, tales como:
 
-Ejercicio 1: Obtención de un array con todos los directores de las películas.
-Ejercicio 2: Filtrado de películas según el director.
-Ejercicio 3: Cálculo del promedio de las puntuaciones de las películas de un director dado.
-Ejercicio 4: Ordenación de las películas alfabéticamente por título.
-Ejercicio 5: Ordenación de las películas por año, en orden ascendente.
-Ejercicio 6: Cálculo del promedio de las puntuaciones de las películas en una categoría.
+- Obtención de un array con todos los directores de las películas.
+- Filtrado de películas según el director.
+- Cálculo del promedio de las puntuaciones de las películas de un director dado.
+- Ordenación de las películas alfabéticamente por título.
+- Ordenación de las películas por año, en orden ascendente.
+- Cálculo del promedio de las puntuaciones de las películas en una categoría.
 
-📗 Nivel 2
-Incluye un ejercicio adicional para manipular la duración de las películas:
+### 📗 Nivel 2
+El Nivel 2 incluye un ejercicio adicional para manipular la duración de las películas:
 
-Ejercicio 7: Conversión de la duración de las películas a minutos.
+- Conversión de la duración de las películas a minutos.
 
-📕 Nivel 3
-Tiene un ejercicio para buscar la mejor película de un año:
+### 📕 Nivel 3
+Finalmente, el Nivel 3 incluye un ejercicio para buscar la mejor película de un año:
 
-Ejercicio 8: Obtención de la mejor película de un año específico.
+- Obtención de la mejor película de un año específico.
 
-💻 Código
-Todo el código está disponible para ser revisado y utilizado. La mayor parte de la implementación se realizó en JavaScript. Si tienes alguna sugerencia para mejorarlo, ¡me encantaría escucharla!
+## 💻 Código
+Todo el código está a tu disposición para ser revisado y utilizado. La mayoría de la implementación se llevó a cabo en JavaScript. Si tienes alguna sugerencia para mejorarlo, ¡me encantaría escucharla!
 
-🌐 Recursos
+## 🌐 Recursos
 Los datos de las películas y las tareas fueron proporcionadas por IT Academy Barcelona Activa. Todo el trabajo de implementación y codificación fue realizado por mí como parte del curso.
