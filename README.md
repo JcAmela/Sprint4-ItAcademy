@@ -2,8 +2,6 @@
 
 ¡Hola! Soy Juan Carlos Amela, estudiante de programación en IT Academy Barcelona Activa. Este repositorio aloja el trabajo realizado durante el Sprint 4 de mi formación, donde trabajé con arrays y objetos para manipular y analizar datos de películas en JavaScript.
 
-Echa un vistazo al proyecto final [aquí](https://jcamela.github.io/Sprint4-ItAcademy.github.io/).
-
 ## 🎯 Niveles y Ejercicios
 
 ### 📘 Nivel 1
