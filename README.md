@@ -2,6 +2,15 @@
 
 ¡Hola! Soy Juan Carlos Amela, estudiante de programación en IT Academy Barcelona Activa. Este repositorio aloja el trabajo realizado durante el Sprint 4 de mi formación, donde trabajé con arrays y objetos para manipular y analizar datos de películas en JavaScript.
 
+🚦 Instrucciones de uso
+Para ejecutar el proyecto localmente, sigue estos pasos:
+
+Clona este repositorio
+Ejecuta npm install para instalar todas las dependencias
+Ejecuta npm run test:watch para instalar todas las dependencias
+Ejecuta npm start para iniciar el servidor
+Abre tu navegador y visita http://localhost:3000 para ver la aplicación en acción!
+
 ## 🎯 Niveles y Ejercicios
 
 ### 📘 Nivel 1
