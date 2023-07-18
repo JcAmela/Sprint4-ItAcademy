@@ -7,7 +7,7 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 
 - Clona este repositorio
 - Ejecuta npm install para instalar todas las dependencias
-- Ejecuta npm run test:watch para instalar todas las dependencias
+- Ejecuta npm run test:watch para instalar iniciar el resultado del testing
 - Ejecuta npm start para iniciar el servidor
 - Abre tu navegador y visita http://localhost:3000 para ver la aplicación en acción!
 
